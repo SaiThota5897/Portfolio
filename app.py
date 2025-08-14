@@ -189,8 +189,8 @@ def make_hyperlinked_contact(contact_text: str) -> str:
     )
 
     # Link the words LinkedIn and GitHub (case-insensitive)
-    linkedin_url = "https://www.linkedin.com/in/saithota97/"
-    github_url = "https://github.com/SaiThota5897"
+    linkedin_url = "https://www.linkedin.com/in/tsai58997/"
+    github_url = "https://github.com/TSai58997"
 
     contact_text = re.sub(
         r'\bLinkedIn\b',
